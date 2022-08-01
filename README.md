@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently at the 4th semester of Computer Engineering
+- 🌱 I’m currently at the 5th semester of Computer Engineering
 - 😄 I’m looking to collaborate on Open Source projects
 - 🤔 I’m looking for help with backend development
 
