@@ -1,18 +1,13 @@
-### Hello there! I'm Caioã Rodrigues 👋
+### Olá, me chamo Caioã Rodrigues!
 
-<!--
-**caioarodrigues/caioarodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently at the 5th semester of Computer Engineering
-- 😄 I’m looking to collaborate on Open Source projects
-- 🤔 I’m looking for help with backend development
-
-<div align="center">
-  <a href="https://github.com/caioarodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioarodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarodrigues&layout=compact&langs_count=7&theme=dark"/>
+### No meu dia a dia uso: 
+<div style = "display: inline-block;">
+    <img align = "center" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "JavaScript"/>
+    <img align = "center" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5" />
+    <img align = "center" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS3" />
+    <img align = "center" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "React" />
+    <img align = "center" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS" />
+    <img align = "center" src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt = "ExpressJS" />
+    <img align = "center" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt = "Linux" />
+    <img align = "center" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "GIT" />
 </div>
-
--->
