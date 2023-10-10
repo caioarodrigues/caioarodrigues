@@ -58,7 +58,7 @@
     </span>
 </section>
 
-<h2>Bancos de dados</h2>
+<h2>SGBDs</h2>
 
 <section style="display: flex; list-style: none">
     <span style="margin-inline-end: 3px">
