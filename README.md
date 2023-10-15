@@ -25,6 +25,7 @@
     </span>
 </section>
 
+<br>
 <section style="margin-block: 10px">
     <span style="margin-inline-end: 5px">
         <img align = "center" src = "https://img.shields.io/badge/React-20232A?style=for-the-badgelogo=react&logoColor=61DAFB" alt = "React"/>
@@ -50,6 +51,7 @@
     </span>
 </section>
 
+<br>
 <section style="display: flex; list-style: none">
     <span style="margin-inline-end: 5px">
         <img align = "center" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badgelogo=mysql&logoColor=white" alt = "MySQL" />
@@ -59,6 +61,7 @@
     </span>
 </section>
 
+<br>
 <section style="display: flex; list-style: none">
     <span style="margin-inline-end: 5px">
         <img align = "center" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&lgo=git&logoColor=white" alt = "GIT" />
