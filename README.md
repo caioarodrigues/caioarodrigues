@@ -74,11 +74,8 @@
 
 ###
 
-<div align="center">
-  <video height="300" width="100%" loop autoplay muted playsinline>
-    <source src="https://i.gifer.com/Wez4.mp4" itemprop="contentUrl" type="video/mp4" />
-  </video>
-  <img class="media-url__h-image" data-src="https://i.gifer.com/Wez4.gif">
-</div>
+<video height="300" width="100%" loop autoplay muted playsinline>
+  <source src="https://i.gifer.com/Wez4.mp4" itemprop="contentUrl" type="video/mp4" />
+</video>
 
 ###
