@@ -75,7 +75,9 @@
 ###
 
 <div align="center">
-  <img height="300" width="300" alt="gif meme" src="https://i.gifer.com/Wez4.gif"  />
+  <video height="300" width="100%">
+    <source src="https://i.gifer.com/Wez4.mp4" />
+  </video>
 </div>
 
 ###
