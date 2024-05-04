@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left"><strong>Tech stack:</strong></p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -71,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/Wez4.gif"  />
+  <img height="300" width="300" alt="gif meme" src="https://i.gifer.com/Wez4.gif"  />
 </div>
 
 ###
